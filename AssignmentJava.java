@@ -17,5 +17,9 @@ public class AssignmentJava {
         }
 
         System.out.println(c);
+        /*
+        Or Simply
+       System.out.println(String.valueOf(n).length());
+        */
     }
 }
